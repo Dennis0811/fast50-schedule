@@ -1,7 +1,7 @@
 {
-  "name": "schedule-website",
+  "name": "fast50-schedule",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
   "homepage": "https://dennis0811.github.io/fast50-schedule/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
