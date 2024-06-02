@@ -1,0 +1,25 @@
+{
+  "short_name": "Fast 50 Schedule",
+  "name": "Schedule for the Speedrun Event Fast 50 hosted by Offbrand",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "192x123",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x123"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x328"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
