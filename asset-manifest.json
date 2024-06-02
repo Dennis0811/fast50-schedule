@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/fast50-schedule/static/css/main.a6f923db.css",
-    "main.js": "/fast50-schedule/static/js/main.7b74292a.js",
+    "main.js": "/fast50-schedule/static/js/main.9129d779.js",
     "index.html": "/fast50-schedule/index.html",
     "main.a6f923db.css.map": "/fast50-schedule/static/css/main.a6f923db.css.map",
-    "main.7b74292a.js.map": "/fast50-schedule/static/js/main.7b74292a.js.map"
+    "main.9129d779.js.map": "/fast50-schedule/static/js/main.9129d779.js.map"
   },
   "entrypoints": [
     "static/css/main.a6f923db.css",
-    "static/js/main.7b74292a.js"
+    "static/js/main.9129d779.js"
   ]
 }
