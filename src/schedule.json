@@ -278,13 +278,6 @@
     "Category": "",
     "Runners": ["BobbyBurm"],
     "Casters": []
-  }, {
-    "Date": "2024-06-02",
-    "Time": "07:00",
-    "Event": "Peaks of Yore",
-    "Category": "Solemn Tempest",
-    "Runners": ["AstralSpiff"],
-    "Casters": []
   },
   {
     "Date": "2024-06-02",
@@ -294,7 +287,14 @@
     "Runners": ["ZFG"],
     "Casters": []
   },
-
+  {
+    "Date": "2024-06-02",
+    "Time": "09:00",
+    "Event": "Peaks of Yore",
+    "Category": "Solemn Tempest",
+    "Runners": ["AstralSpiff"],
+    "Casters": []
+  },
   {
     "Date": "2024-06-02",
     "Time": "11:30",
